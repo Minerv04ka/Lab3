@@ -49,8 +49,8 @@ class Dog{
 }
 class Program{
     static void Main(){
-        Dog bigDog = new Dog("Барон", "Рудий", 25);
-        Dog smallDog = new Dog("Рекс", 10);
+        Dog bigDog = new Dog("Дабі", "Бакс", 25);
+        Dog smallDog = new Dog("Шарик", 10);
 
         bigDog.WakeUp();
         bigDog.Bark();
